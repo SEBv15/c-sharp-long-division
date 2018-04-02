@@ -1,0 +1,7 @@
+c:\users\sebas\source\repos\LongDivision\LongDivision\bin\Debug\LongDivision.exe.config
+c:\users\sebas\source\repos\LongDivision\LongDivision\bin\Debug\LongDivision.exe
+c:\users\sebas\source\repos\LongDivision\LongDivision\bin\Debug\LongDivision.pdb
+c:\users\sebas\source\repos\LongDivision\LongDivision\obj\Debug\LongDivision.csprojResolveAssemblyReference.cache
+c:\users\sebas\source\repos\LongDivision\LongDivision\obj\Debug\LongDivision.csproj.CoreCompileInputs.cache
+c:\users\sebas\source\repos\LongDivision\LongDivision\obj\Debug\LongDivision.exe
+c:\users\sebas\source\repos\LongDivision\LongDivision\obj\Debug\LongDivision.pdb
